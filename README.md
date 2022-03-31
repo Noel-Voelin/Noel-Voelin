@@ -1,5 +1,5 @@
 ## Hey there 
-I'm Noel, a passionate Java Developer with a super strong emphasis on web technologies. I'm currently working for a company called Netcentric and we do large scale <code><img height="20" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"></code> AEM (adobe experience manager) Projects. I take pride in working out solutions and building little python tools to making my own life easier. However, lately, I have gotten into cloud-native architecture and CI/CD Pipeline work. 
+I'm Noel, a passionate Java Developer with a super strong emphasis on web technologies. I used to work for a company called Netcentric which does large scale <code><img height="20" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"></code> AEM (adobe experience manager) Projects. I take pride in working out solutions and building little python tools to make my own life easier. However, lately, I have gotten into cloud-native architecture and CI/CD Pipeline work. In order to broaden my skillset and deep dive into the MS Azure stack, I will be starting a new journey as a .Net C# Engineer at Digitec Galaxus AG 
 
 Also, I am a big open-source enthusiast. I really like the mindset of open source and I love to contribute. Yet I still have not found a project I could become an active contributor to.
 
